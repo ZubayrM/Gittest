@@ -1,3 +1,5 @@
+import com.sun.corba.se.impl.resolver.SplitLocalResolverImpl;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -5,5 +7,11 @@ public class Main {
 
         String s = "text";
 
+
+
+    }
+
+    private String s (){
+        return null;
     }
 }
